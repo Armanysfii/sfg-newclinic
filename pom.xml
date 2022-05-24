@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.arman.spring</groupId>
     <artifactId>petclinic-enhance</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>petclinic-enhance</name>
     <description>Enhanced project for Pet Clinic with Spring Boot</description>
     <properties>
@@ -44,7 +44,7 @@
         <developerConnection>
             scm:git:git@github.com:Armanysfii/sfg-newclinic.git
         </developerConnection>
-      <tag>petclinic-enhance-0.0.1</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
