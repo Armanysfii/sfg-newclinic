@@ -2,7 +2,7 @@ package com.arman.spring.petclinicenhance.model;
 
 import java.util.Date;
 
-public class Pet {
+public class Pet extends BaseEntity{
 
     private PetType petType;
     private Owner owner;
